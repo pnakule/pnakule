@@ -2,6 +2,6 @@
 
 ☁️ AWS Certified Solutions Architect – Associate
 
-Building and deploying projects on AWS while learning more about cloud architecture, automation, serverless, networking, scaling, monitoring, and cost optimization.
+Building on AWS and learning more about architecture, deployment, automation, serverless systems, scalability, monitoring, and cost optimization.
 
-🚀 Learning step by step by building projects, experimenting with AWS services, and solving real deployment and infrastructure challenges.
+🚀 Goal is to understand how real cloud systems are designed, deployed, automated, and managed at scale.
