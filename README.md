@@ -6,5 +6,5 @@ Building on AWS and learning more about architecture, deployment, automation, se
 
 🚀 Goal is to understand how real cloud systems are designed, deployed, automated, and managed at scale.
 
-## 🔗 Let's Connect
+### 🔗 Let's Connect
 - LinkedIn: https://linkedin.com/in/pnakule
